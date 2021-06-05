@@ -2,13 +2,18 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>AirbnbIntegrationProject</Name>
-    <LastWriteTime>2021-06-03T14:53:20.8998391Z</LastWriteTime>
+    <LastWriteTime>2021-06-05T12:55:50.8786766Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>LoadDimensions.dtsx</Name>
-      <LastWriteTime>2021-06-05T02:42:03.9141007Z</LastWriteTime>
+      <LastWriteTime>2021-06-05T12:52:15.6778353Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>WebScraping.dtsx</Name>
+      <LastWriteTime>2021-06-05T14:29:13.8284882Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
